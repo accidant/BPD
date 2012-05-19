@@ -1,0 +1,1 @@
+<a class="sub_link" href="index.php?site=about">About us</a> - <a class="sub_link" href="index.php?site=squads">Squads</a> - <a class="sub_link" href="index.php?site=members">Members</a> - <a class="sub_link" href="index.php?site=clanwars">Matches</a> - <a class="sub_link" href="index.php?site=history">History</a> - <a class="sub_link" href="index.php?site=awards">Awards</a>
